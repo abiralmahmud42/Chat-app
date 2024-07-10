@@ -1,4 +1,6 @@
 // controllers/auth.controller.js
+// controllers/auth.controller.js
+
 export const signup = (req, res) => {
     // Signup logic here
     res.send("Signup successful!");
